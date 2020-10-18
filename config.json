@@ -1,0 +1,15 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "pool.supportxmr.com:443",
+            "user": "47iAdhm3pTKZuhBtUnnTeKCB13karABKsRUZbhzuBRBHX1evLUYtXYdTRuaZNbUE1jBkuPEUPSh569eMzRq8AHMA9ASc3Xb",
+            "pass": "Usr",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
